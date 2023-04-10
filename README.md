@@ -53,12 +53,12 @@ const { countdown, isCountdownActive, formattedTime, start, stop, reset } =
 
 The useCountdown hook returns an object with the following properties and methods:
 
-countdown (number): The current remaining time in seconds.
-isCountdownActive (boolean): Indicates if the countdown is currently active.
-formattedTime (string): The current remaining time formatted as hh:mm:ss using the formatTime utility function.
-start (function): Starts the countdown timer.
-stop (function): Stops the countdown timer.
-reset (function): Resets the countdown timer to its initial time.
+- countdown (number): The current remaining time in seconds.
+- isCountdownActive (boolean): Indicates if the countdown is currently active.
+- formattedTime (string): The current remaining time formatted as hh:mm:ss using the formatTime utility function.
+- start (function): Starts the countdown timer.
+- stop (function): Stops the countdown timer.
+- reset (function): Resets the countdown timer to its initial time.
 
 ## Example
 

@@ -1,6 +1,6 @@
 {
   "name": "react-native-use-countdown",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "useCountdown is a simple, yet powerful React Hook that allows developers to easily create and manage countdown timers in their applications. ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,10 +13,20 @@
     "url": "git+https://github.com/kurucaner/react-native-use-countdown.git"
   },
   "keywords": [
-    "countdown",
-    "hook",
-    "react",
-    "native"
+    "React",
+    "Countdown",
+    "Timer",
+    "Hook",
+    "requestAnimationFrame",
+    "cancelAnimationFrame",
+    "Performance",
+    "React Native",
+    "Component",
+    "JavaScript",
+    "Efficient timer",
+    "Animation frame",
+    "Stopwatch",
+    "Time tracking"
   ],
   "files": [
     "dist"
