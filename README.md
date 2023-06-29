@@ -66,7 +66,7 @@ Here's an example of how to use the useCountdown hook in a simple timer componen
 
 ```javascript
 import React from "react";
-import { useCountdown } from "use-countdown-hook";
+import { useCountdown } from "react-native-use-countdown";
 
 const Timer = () => {
   const initialTime = 60;
